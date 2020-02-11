@@ -6,6 +6,8 @@ public class ExempleGit {
 		System.out.println("Hola que tal? gent,uuii");
 		
 		System.out.println("Hola que tal? gent,uuii");
+		
+		System.out.println("Hola soc L'Albert");
 
 
 	}
